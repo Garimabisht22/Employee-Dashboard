@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Happy",
+      "lastName": "Sad",
+      "mobile": "10w353636",
+      "email": "Happy",
+      "salary": "100000000"
+    },
+    {
+      "if": 0,
+      "firstName": "vdrg",
+      "lastName": "htyj",
+      "mobile": "34t64745745",
+      "email": "grhrdxtjtydjdt",
+      "salary": "56455555555564",
+      "id": 3
+    },
+    {
+      "if": 0,
+      "firstName": "hello",
+      "lastName": "world",
+      "mobile": "100",
+      "email": "hello.world",
+      "salary": "40000",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
